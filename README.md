@@ -5,3 +5,5 @@ The purpose of this application is to randomly generate a password. First it gat
 The following image demonstrates the application functionality:
 
 ![password generator demo](./03-javascript-homework-demo.png)
+
+https://alexshafer.github.io/Javascript-Password-Generator/
